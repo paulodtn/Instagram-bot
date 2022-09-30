@@ -1,2 +1,2 @@
-# Projeto-de-istagram-bot
+# Instagram-bot
 criando um mecanismo de automação para comentar e marcar em posts

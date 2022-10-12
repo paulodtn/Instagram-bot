@@ -25,10 +25,5 @@ def instagram(user, password_account, page):
 
     time.sleep(5)
 
-    browser.get(page)
-    text_area = browser.find_element("id", "textarea")
-    text_area.send_keys("@recifeordinário")
-
-
 if __name__ == '__main__':
     instagram()

@@ -5,6 +5,17 @@ Criando um mecanismo de automação para comentar e marcar em posts
 
 Este é um projeto que visa criar um mecanismo de automação para comentar e marcar em post de redes sociais usando Python 3, VS Code, Selenium, time, secrets e random.
 
+## Tecnologias
+
+Este projeto usa as seguintes tecnologias:
+
+- Python 3: uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+- VS Code: um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS, que inclui suporte para depuração, controle de versionamento Git, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+- Selenium: um conjunto de ferramentas que automatiza navegadores web. Ele é usado principalmente para testar aplicações web, mas também pode ser usado para outros fins, como scraping ou automação de tarefas repetitivas.
+- time: um módulo Python que fornece várias funções relacionadas ao tempo, como obter o tempo atual, formatar e analisar datas e horas, medir intervalos de tempo e implementar pausas.
+- secrets: um módulo Python que gera números aleatórios seguros para gerenciar dados confidenciais, como senhas, tokens ou chaves secretas.
+- random: um módulo Python que implementa geradores pseudoaleatórios para vários tipos de dados, como números inteiros, reais, binários ou sequências.
+
 ## Como funciona
 
 O projeto consiste em um script Python que usa o Selenium para acessar uma rede social, fazer login com uma conta previamente cadastrada, buscar por posts relacionados a um tema específico e comentar neles com uma mensagem aleatória e uma marcação de outro usuário. O script usa os módulos time, secrets e random para gerar tempos de espera, senhas e mensagens aleatórias.
